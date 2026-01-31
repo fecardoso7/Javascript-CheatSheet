@@ -1,6 +1,19 @@
-# JavaScript
+# JavaScript - Resumo de Estudo
 
-JavaScript (JS) é uma linguagem de programação **dinâmica, interpretada e de alto nível**, usada principalmente no desenvolvimento web para criar páginas interativas. É uma das três tecnologias principais da web, junto com **HTML** e **CSS**, permitindo manipular o conteúdo, estilo e comportamento das páginas.
+Este documento é um **guia completo para estudo da linguagem JavaScript**, pensado para iniciantes e intermediários. Ele reúne as principais informações e práticas da linguagem, incluindo:
+
+- **Características principais**: JavaScript é dinâmica, interpretada, orientada a eventos e usada tanto no front-end quanto no back-end.
+- **Tipos de dados**: primitivos (String, Number, Boolean, etc.) e objetos (Array, Function, Object, etc.).
+- **Variáveis e escopo**: diferenças entre `var`, `let` e `const`.
+- **Operadores**: aritméticos, lógicos, de comparação e ternário.
+- **Estruturas de controle**: condicionais (`if`, `switch`) e loops (`for`, `while`, `for...of`).
+- **Funções**: definição tradicional, anônima e arrow function, além de funções importantes para manipulação de arrays, strings e objetos.
+- **Eventos (Front-End)**: exemplos de eventos de clique e teclado.
+- **Atalhos úteis** para produtividade.
+- **Boas práticas** de código e organização.
+- **Recursos para estudo**: links para documentação oficial e sites de referência.
+
+O objetivo deste documento é servir como um **manual de estudo e referência rápida**, permitindo que você revise conceitos, exemplos e boas práticas da linguagem JavaScript de forma organizada e direta.
 
 ---
 
