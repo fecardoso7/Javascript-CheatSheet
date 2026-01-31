@@ -240,3 +240,19 @@ document.addEventListener("keydown", (e) => {
 - [ECMAScript 2026 Features](https://www.ecma-international.org/)
 - [Node.js](https://nodejs.org/)
 - [JavaScript Info](https://javascript.info/)
+
+### 📧 Contato
+
+- **LinkedIn**: [Felipe Cardoso](https://www.linkedin.com/in/fecardosodev/)
+- **GitHub**: [@fecardoso7](https://github.com/fecardoso7)
+- **Email**: felipecardoso1530@gmail.com
+
+---
+
+<div align="center">
+  
+  **Feito com  ❤️ por Felipe Cardoso**
+  
+  ⭐ Dê uma estrela neste repositório se você gostou!
+
+</div>
