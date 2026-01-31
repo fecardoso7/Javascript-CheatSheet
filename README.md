@@ -27,22 +27,6 @@ O objetivo deste documento é servir como um **manual de estudo e referência r�
 
 ---
 
-## 💻 Como Usar
-
-1. **No navegador**
-```html
-<script>
-  console.log('Olá, mundo!');
-</script>
-```
-
-2. **Com Node.js**
-```bash
-node arquivo.js
-```
-
----
-
 ## 📝 Tipos de Dados
 
 - **Primitivos**: `String`, `Number`, `Boolean`, `Undefined`, `Null`, `Symbol`, `BigInt`
@@ -61,13 +45,33 @@ let cores = ["azul", "verde", "vermelho"];  // Array
 
 ## ⚡ Variáveis e Escopo
 
+
 - `var`: escopo global ou de função, não recomendado atualmente.
 - `let`: escopo de bloco, recomendado para variáveis mutáveis.
 - `const`: escopo de bloco, usado para constantes (imutáveis).
 
+
+### Exemplo simples de `var`
 ```javascript
-let idade = 26;
-const nome = "Felipe";
+function exemploLet() {
+  let gato = "Mingau";
+  console.log(gato); // Mingau
+
+  if (true) {
+    let gato = "Tom"; // Esse é outro gato, só dentro do if
+    console.log(gato); // Tom
+  }
+
+  console.log(gato); // Mingau (continua o original)
+}
+
+exemploLet();
+```
+
+### Exemplos de `let` e `const`
+```javascript
+let idade = 26; // variável mutável
+const nome = "Felipe"; // constante imutável
 ```
 
 ---
