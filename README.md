@@ -251,7 +251,7 @@ document.addEventListener("keydown", (e) => {
 
 <div align="center">
   
-  **Feito com  ❤️ por Felipe Cardoso**
+  **Feito por Felipe Cardoso**
   
   ⭐ Dê uma estrela neste repositório se você gostou!
 
